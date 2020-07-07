@@ -1,5 +1,4 @@
 # Signals Convolution 
-Signals and Systems Project.
 
 TODO: General Description
 
