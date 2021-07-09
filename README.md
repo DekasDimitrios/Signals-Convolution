@@ -1,10 +1,13 @@
-# Signals Convolution 
+## Signals Convolution 
 
-TODO: General Description
-
-TODO: First Part Description
+# General Description
 C++ used to create a function that calculates the convolution of two signals and returns the result to the main program.
 
-TODO: Second Part Description
+# First Part Description.
+Function used to calculate the convolution between two numerical vectors.
 
-TODO: CUDA Part Description
+# Second Part Description
+Function used to calculate the convolution between two WAV files.
+
+# CUDA Part Description
+CUDA programming deployed in order to parallelize convolution's caclulations using the GPU architecture.
